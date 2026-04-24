@@ -1,0 +1,20 @@
+# Data files
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# But keep code and structure
+!*.py
+!*.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
